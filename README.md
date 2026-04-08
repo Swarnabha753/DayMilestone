@@ -1,4 +1,4 @@
-# 🗓️ DayFlow — Aesthetic Interactive Calendar Experience
+# 🗓️ DayMilestone — Aesthetic Interactive Calendar Experience
 
 🔗 **Live Demo:**[ https://day-milestone.vercel.app/](https://day-milestone.vercel.app/)
 
@@ -7,7 +7,7 @@
 ## ✨ Why This Project Stands Out
 
 Most calendar apps focus only on functionality.  
-**DayFlow blends functionality with experience.**
+**DayMilestone blends functionality with experience.**
 
 It is inspired by a **physical wall calendar**, enhanced with:
 - 🌦️ Seasonal storytelling (dynamic visuals)
